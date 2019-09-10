@@ -1,7 +1,0 @@
-{
-  "name": "memory-UI",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
